@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/business-card-share/static/css/main.b3e53094.chunk.css",
+    "main.js": "/business-card-share/static/js/main.1d9a0730.chunk.js",
+    "main.js.map": "/business-card-share/static/js/main.1d9a0730.chunk.js.map",
+    "runtime~main.js": "/business-card-share/static/js/runtime~main.9f09a302.js",
+    "runtime~main.js.map": "/business-card-share/static/js/runtime~main.9f09a302.js.map",
+    "static/css/2.266e55a5.chunk.css": "/business-card-share/static/css/2.266e55a5.chunk.css",
+    "static/js/2.0c14b53d.chunk.js": "/business-card-share/static/js/2.0c14b53d.chunk.js",
+    "static/js/2.0c14b53d.chunk.js.map": "/business-card-share/static/js/2.0c14b53d.chunk.js.map",
+    "index.html": "/business-card-share/index.html",
+    "precache-manifest.794f02e9609e110a230a51dbeb061495.js": "/business-card-share/precache-manifest.794f02e9609e110a230a51dbeb061495.js",
+    "service-worker.js": "/business-card-share/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/business-card-share/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.b3e53094.chunk.css.map": "/business-card-share/static/css/main.b3e53094.chunk.css.map",
+    "static/media/index.scss": "/business-card-share/static/media/banner.d9b52cb8.jpg",
+    "static/media/avtar.png": "/business-card-share/static/media/avtar.2aee7378.png",
+    "static/media/card1.png": "/business-card-share/static/media/card1.ff82149f.png",
+    "static/media/card2.png": "/business-card-share/static/media/card2.7bee8978.png",
+    "static/media/card3.png": "/business-card-share/static/media/card3.c797607e.png",
+    "static/media/card4.png": "/business-card-share/static/media/card4.b48d47f8.png",
+    "static/media/card5.png": "/business-card-share/static/media/card5.d2005091.png",
+    "static/media/login.png": "/business-card-share/static/media/login.e5f7b561.png",
+    "static/media/men-img.png": "/business-card-share/static/media/men-img.7f5683fb.png",
+    "static/media/signup.png": "/business-card-share/static/media/signup.ff531371.png"
+  }
+}
